@@ -2,9 +2,9 @@
 
 Client-acquisition site for Keyur Patel, full-stack software developer.
 
-**Live site:** https://pkeyur18.github.io/keyur-patel-portfolio/
+**Live site:** https://pkeyur18.github.io/keyur-patel/
 
-**Resume site:** https://pkeyur18.github.io/keyur-patel-portfolio/resume/
+**Resume site:** https://pkeyur18.github.io/keyur-patel/resume/
 
 ## Tech
 
