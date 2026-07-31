@@ -8,7 +8,7 @@ Client-acquisition site for Keyur Patel, full-stack software developer.
 
 ## Tech
 
-Static sites — `index.html`/`styles.css`/`script.js` (root) and `resume/index.html` (self-contained, inline CSS/JS). No build step, no dependencies.
+Static sites — `index.html` (root) with `assets/styles.css`/`assets/script.js`, and `resume/index.html` (self-contained, inline CSS/JS). No build step, no dependencies.
 
 ## Run locally
 
