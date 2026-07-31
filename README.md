@@ -1,17 +1,21 @@
 # Keyur Patel — Portfolio
 
-Personal portfolio site for Keyur Patel, Senior Software Developer.
+Client-acquisition site for Keyur Patel, full-stack software developer.
 
 **Live site:** https://pkeyur18.github.io/keyur-patel-portfolio/
 
+**Resume site:** https://pkeyur18.github.io/keyur-patel-portfolio/resume/
+
 ## Tech
 
-Single-file static site — `index.html` with inline CSS and vanilla JS. No build step, no dependencies.
+Static sites — `index.html`/`styles.css`/`script.js` (root) and `resume/index.html` (self-contained, inline CSS/JS). No build step, no dependencies.
 
 ## Run locally
 
-Open `index.html` in a browser.
+Open `index.html` (or `resume/index.html`) in a browser.
 
 ## Sections
 
-About · Experience · Skills · AI Tools · Achievements · Education · Contact
+**Root:** Services · Work · Process · About · Technologies · FAQ · Contact
+
+**Resume:** About · Experience · Skills · AI Tools · Achievements · Education · Contact
